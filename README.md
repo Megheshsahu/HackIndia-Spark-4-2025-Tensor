@@ -58,6 +58,3 @@ python client/main.py
 - Blockchain-based task verification
 - Decentralized payment system
 
-## License
-
-MIT License 
