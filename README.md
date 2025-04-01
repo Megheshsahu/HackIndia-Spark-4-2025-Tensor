@@ -58,3 +58,8 @@ python client/main.py
 - Blockchain-based task verification
 - Decentralized payment system
 
+## TEAM MEMBER
+
+Meghesh Sahu
+Himanshu Kumar 
+Rohan Kumar Singh
