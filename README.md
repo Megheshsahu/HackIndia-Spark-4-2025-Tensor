@@ -60,6 +60,6 @@ python client/main.py
 
 ## TEAM MEMBER
 
-Meghesh Sahu
-Himanshu Kumar 
-Rohan Kumar Singh
+- Meghesh Sahu
+- Himanshu Kumar 
+- Rohan Kumar Singh
