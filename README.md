@@ -1,4 +1,4 @@
-# Core Share
+# CoreShare
 
 A decentralized system for distributed AI model training using WebRTC and blockchain technology.
 
