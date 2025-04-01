@@ -1,0 +1,12 @@
+web3==6.11.1
+numpy==1.24.3
+torch==2.0.1
+python-dotenv==1.0.0
+aiortc==1.5.0
+cryptography==41.0.3
+tenseal==0.3.12  # For homomorphic encryption
+pynacl==1.5.0
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+python-multipart==0.0.6 
