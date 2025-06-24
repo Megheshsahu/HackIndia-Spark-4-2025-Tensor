@@ -7,3 +7,4 @@ A decentralized system for distributed AI model training using WebRTC and blockc
 - Meghesh Sahu
 - Himanshu Kumar 
 - Rohan Kumar Singh
+# Licensed under MIT License
